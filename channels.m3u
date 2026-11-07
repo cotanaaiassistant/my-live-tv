@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="International",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
+#EXTINF:-1 group-title="Sri Lanka",Sri Lankan TV
+https://iptv-org.github.io/iptv/countries/lk.m3u
+#EXTINF:-1 group-title="India",Indian TV
+https://iptv-org.github.io/iptv/countries/in.m3u
+#EXTINF:-1 group-title="International",International TV
+https://iptv-org.github.io/iptv/index.m3u
